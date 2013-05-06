@@ -1,0 +1,44 @@
+﻿@model MvcApplication2.Models.TestModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@Html.Partial("_sillyinfo")
+@using (Html.BeginForm())
+{
+    @Html.TextBoxFor(m => m.EmailAddress)
+    @Html.ValidationMessageFor(m => m.EmailAddress)
+    <input type="submit" value="Log On" />
+    <br />
+    @Html.ValidationSummary(true, "Login was unsuccessful. Please correct the errors and try again.")
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+      
+</p>
+<table>
+    <tr>
+        <th>
+            EmailAddress
+        </th>
+        <th></th>
+    </tr>
+
+
+    <tr>
+        <td>
+            @Html.DisplayFor(model => model.EmailAddress)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=1 }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+
+
+</table>

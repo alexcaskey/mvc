@@ -1,0 +1,10 @@
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.dll.config
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.dll
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.pdb
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.dll
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\EntityFramework.dll
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.pdb
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\EntityFramework.xml
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.csprojResolveAssemblyReference.cache
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.dll
+c:\users\acaskey\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.pdb
